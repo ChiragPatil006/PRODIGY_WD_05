@@ -1,4 +1,4 @@
-const apiKey = '2088e031f3006e0690547d7d24801b74';
+const apiKey = 'your api key';
 
 const quotes = {
   Clear: "It's a bright day — make it count! ☀️",
